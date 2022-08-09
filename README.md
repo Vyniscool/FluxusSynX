@@ -20,5 +20,3 @@ VirusTotal: [Here](https://www.virustotal.com/gui/file-analysis/YWU3NDA3NmVjMTRm
 ![image](https://media.discordapp.net/attachments/949873678185803777/975095484995731496/unknown.png)
 ## Settings page 2
 ![image](https://media.discordapp.net/attachments/949873678185803777/975095503282901062/unknown.png)
-
-***DISCORD***: discord.gg/msBjh2MpF3
